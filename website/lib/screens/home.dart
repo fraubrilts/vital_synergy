@@ -126,7 +126,7 @@ life coach and helping practitioner.
 ## Contact me
 
 * [Facebook](https://www.facebook.com/profile.php?id=100012951335128)
-* [Telegram](https://t.me/aura_kobido)
+* [Telegram](https://t.me/Vitalsynergy)
 ''',
       ),
     );
